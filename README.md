@@ -24,6 +24,10 @@
 
 ## Description
 We were asked by an employee of the the United States Geological Survey (USGS) to design an app that would allow him to conduct weekly surveys of his region (which are currently being done via email and Microsoft Word) easily and more efficiently. Accretion is the web app we designed to this end. It was designed to be filled out by a single point of contact from each office and submitted weekly. From there the regional coordinators can compile the data and use them effectively.
+
+View live here: https://accretion2022.herokuapp.com/
+Username: aFisher@usgs.gov
+Password: fishfriend94
                 
 ---  
 <br>
