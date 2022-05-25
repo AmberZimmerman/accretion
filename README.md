@@ -28,6 +28,8 @@ We were asked by an employee of the the United States Geological Survey (USGS) t
 View live here: https://accretion2022.herokuapp.com/
 Username: aFisher@usgs.gov
 Password: fishfriend94
+
+<br> Data is intended to be displayed based on a weekly basis, so data must be seeded / or created within a week of viewing.
                 
 ---  
 <br>
